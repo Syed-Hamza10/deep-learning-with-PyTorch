@@ -13,8 +13,12 @@ In this repo, you'll explore:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/deep-learning-with-pytorch.git
+   git clone https://github.com/Syed-Hamza10/deep-learning-with-pytorch.git
    cd deep-learning-with-pytorch
+   
+2. **Requirements:**
+   ```bash
+     pip install -r requirements.txt
    
 **Contributing**
 Contributions are welcome! If you have ideas, improvements, or new projects, feel free to open an issue or submit a pull request.
